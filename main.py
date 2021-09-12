@@ -2,12 +2,12 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-from sub-module-lala2.main import just_changed_it
+import submodule3.main
 
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    sub-module-lala2.just_changed_it()
+    submodule3.main.just_changed_it()
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':

@@ -2,3 +2,7 @@
 	path = sub-module-lala2
 	url = https://github.com/arianmoi/ArianCore.git
 	branch = new-branch
+[submodule "submodule3"]
+	path = submodule3
+	url = https://github.com/arianmoi/ArianCore.git
+	branch = new-branch

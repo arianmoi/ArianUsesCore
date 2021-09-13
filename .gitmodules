@@ -1,0 +1,4 @@
+[submodule "submodulelala2"]
+	path = submodulelala2
+	url = https://github.com/arianmoi/ArianCore.git
+	branch = new-branch

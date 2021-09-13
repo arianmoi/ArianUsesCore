@@ -2,13 +2,13 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import eee.main
-import submodulelala2.main
+#import eee.main
+#import submodulelala2.main
 
 
 def print_hi(name):
-    submodulelala2.main.just_changed_it()
-
+    #submodulelala2.main.just_changed_it()
+    pass
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')

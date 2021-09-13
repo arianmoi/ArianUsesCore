@@ -1,0 +1,8 @@
+[submodule "submoduleAttempt"]
+	path = submoduleAttempt
+	url = https://github.com/arianmoi/ArianCore.git
+	branch = new-branch
+[submodule "submoduleAttempt2"]
+	path = submoduleAttempt2
+	url = https://github.com/arianmoi/ArianCore.git
+	branch = new-branch
